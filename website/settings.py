@@ -40,8 +40,6 @@ INSTALLED_APPS = [
     'home',
     'book_store',
     'blog',
-    'dajaxice',
-    'dajax',
     'apiv0',
     'rest_framework',
 ]
